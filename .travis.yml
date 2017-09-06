@@ -9,8 +9,6 @@ before_install:
 install:
 - npm install
 script:
-- git submodule init
-- git submodule update
 - hexo generate
 after_success:
 - git config --global user.name "liuxu"
