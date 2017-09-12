@@ -79,7 +79,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/liuxu623/liuxu623.github.io
-  branch: gh-pages
+  branch: master
 
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 wechatpay: /images/wechat.png
