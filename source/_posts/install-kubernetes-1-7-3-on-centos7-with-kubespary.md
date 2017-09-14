@@ -1,5 +1,5 @@
 ---
-title: install-kubernetes-1.7.3-on-centos7-with-kubespary
+title: 使用kubespary在centos7上安装kubernetes集群
 date: 2017-09-14 18:59:00
 tags: 
 - kubernetes
