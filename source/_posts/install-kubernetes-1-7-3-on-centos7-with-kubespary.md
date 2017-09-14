@@ -1,7 +1,7 @@
 ---
 title: install-kubernetes-1.7.3-on-centos7-with-kubespary
 date: 2017-09-14 18:59:00
-tags: kubernetes,k8s,kubespary
+tags: kubernetes k8s kubespary
 ---
 ### 1. 节点信息
 IP Address | Role | OS
