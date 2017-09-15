@@ -1,8 +1,8 @@
 # Header
 
-#menu:
-#  主页: /
-#  随笔: /tags/随笔/
+menu:
+  主页: /
+  k8s: /tags/k8s/
 
 # SubNav
 #subnav:
